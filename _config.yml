@@ -1,8 +1,8 @@
 permalink: /blog/:title
 sakura-jekyll-version: 0.9.0
 # Information required for feed
-title: Sakura Jekyll # Change this to your site name.
-description:
+title: MiteshNinja # Change this to your site name.
+description: The master of shadows.
 url:
 author:
 
@@ -22,21 +22,21 @@ defaults:
 google_analytics:
 disqus_shortname:
 twitter:
-    username:
+    username: miteshninja
 
 # Includes an icon in the 'ABOUT' page for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
-  flickr:
-  github:
-  instagram:
-  linkedin:
+  email: mitesh@miteshshah.com
+  facebook: miteshninja
+  flickr: miteshninja
+  github: miteshninja
+  instagram: miteshninja
+  linkedin: mitesh-shah
   pinterest:
   rss: True # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: miteshninja
+  stackoverflow: users/4395646/miteshninja # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
