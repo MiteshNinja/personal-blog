@@ -5,7 +5,7 @@ title: MiteshNinja # Change this to your site name.
 description: The master of shadows.
 url:
 author:
-    twitter: # twitter user name here
+    twitter: miteshninja # twitter user name here
 
 date_format: "%b %d, %Y"
 
@@ -16,7 +16,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "" # Set this to default author
+      author: "Mitesh Shah" # Set this to default author
 
 
 # Third-party services
