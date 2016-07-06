@@ -1,4 +1,4 @@
-permalink: /blog/:title
+permalink: /:title
 sakura-jekyll-version: 0.9.0
 # Information required for feed
 title: MiteshNinja # Change this to your site name.
